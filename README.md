@@ -1,85 +1,42 @@
-# Ahmed Manavi Alam
+# Ahmed Manavi Alam | Personal Website
 
-[Email](mailto:manavialam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-manavi-alam-833a611b7/) | [GitHub](https://github.com/ahmed-manavi) | [ResearchGate](https://www.researchgate.net/profile/Ahmed-Manavi-Alam) | [Google Scholar](https://scholar.google.com/citations?user=YsHH6asAAAAJ&hl=en)
+Welcome to my personal website repository! This website showcases my research, publications, projects, and professional journey.
 
----
+🌐 **Live Website:** [ahmed-manavi.github.io](https://ahmed-manavi.github.io)
 
-## About Me
+## 📚 Contents
 
-I'm a researcher and engineer specializing in **digital signal processing (DSP)** and **machine learning (ML)** for audio, radar, and sensing applications. Experienced in algorithm development, generative modeling, and computer vision, my goal is to contribute innovative solutions for intelligent and inclusive technologies.
+- [Home](index.md): Introduction and summary of my professional background.
+- [Publications](publications.md): A detailed list of my academic publications.
+- [Projects](projects.md): Showcase of major research projects and contributions.
 
----
+## 🛠 Technologies
 
-## Education
+- **Jekyll** (for static site generation)
+- **Markdown** (for easy content formatting)
+- **GitHub Pages** (free hosting)
 
-**North Carolina State University, Raleigh, NC**
-*Ph.D. in Electrical Engineering (Jan 2025 – July 2025)*
+## 📌 Quick Links
 
-**Mississippi State University, Starkville, MS**
-*M.S. in Electrical and Computer Engineering (Aug 2021 – Aug 2024)*
-GPA: 4.00/4.00
+- [LinkedIn](https://www.linkedin.com/in/ahmed-manavi-alam-833a611b7/)
+- [GitHub](https://github.com/ahmed-manavi)
+- [Google Scholar](https://scholar.google.com/citations?user=YsHH6asAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Ahmed-Manavi-Alam)
 
-**Bangladesh University of Engineering and Technology, Dhaka, Bangladesh**
-*B.S. in Electrical and Electronic Engineering (Feb 2015 – Apr 2019)*
-1st in National Engineering Ranking
+## 🚀 Deployment
 
----
+This site is deployed automatically using GitHub Pages. Any updates pushed to the repository will be immediately reflected.
 
-## Work Experience
+To visit the live site:
 
-### Graduate Research Assistant
+👉 [ahmed-manavi.github.io](https://ahmed-manavi.github.io)
 
-**North Carolina State University** (Jan 2025 – Present)
+## 📬 Contact
 
-* Developed advanced ML-based Direction of Arrival estimation frameworks.
-* Implemented a dual-polarized radiometer with interference processing using SDR technology.
+Feel free to reach out for collaboration or inquiries:
 
-### Audio ML & DSP Research Co-op
+- **Email:** [aalam6@ncsu.edu](mailto:aalam6@ncsu.edu) or [manavialam@gmail.com](mailto:manavialam@gmail.com)
 
-**Bose Corporation** (July 2024 – Dec 2024)
+## 📃 License
 
-* Enhanced room geometry estimation through DSP and ML.
-* Improved acoustic simulations and data collection pipelines.
-
-### Graduate Research Assistant
-
-**Mississippi State University** (Sep 2023 – June 2024)
-
-* Developed global RFI detection algorithms for Earth observation satellites.
-* Designed spectrum coexistence testbeds and SDR-based radiometer calibration.
-
----
-
-## Technical Skills
-
-* **Languages & Tools:** Python, C/C++, MATLAB, R, LaTeX, Git
-* **ML Libraries:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV
-* **Cloud & Databases:** AWS, USDA SCINet, MySQL
-
----
-
-## Honors and Awards
-
-* **Finalist, IEEE RadarConf’24 Radar Challenge**
-* **Graduate Research Symposium Winner (2024, Mississippi State University)**
-* **IEEE DySPAN NSF Student Travel Grant (2024)**
-* **Finalist, IEEE IGARSS Student Paper Competition (2022)**
-* **NAS Fellowship Travel Grant (2024)**
-
----
-
-## Leadership & Community Engagement
-
-* **Reviewer:** IEEE Transactions journals in Aerospace, Radar, and Remote Sensing
-* **Contributor:** NASA and NSF-funded research projects
-* **Organizer:** EEE Day 2019, coordinating event activities and sponsorships
-
----
-
-## Publications
-
-Published **5 Peer-Reviewed IEEE Journal Articles** and **15 Conference Papers**. Visit my [Google Scholar profile](https://scholar.google.com/citations?user=YsHH6asAAAAJ&hl=en) for details.
-
----
-
-© 2024 Ahmed Manavi Alam
+© 2024 Ahmed Manavi Alam. All rights reserved.
