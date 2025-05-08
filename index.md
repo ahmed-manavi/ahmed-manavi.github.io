@@ -17,6 +17,11 @@ I am a researcher and engineer specializing in **Digital Signal Processing (DSP)
 - **M.S. in Electrical and Computer Engineering**, Mississippi State University (Aug 2021 – Aug 2024)
 - **B.S. in Electrical and Electronic Engineering**, Bangladesh University of Engineering and Technology (Feb 2015 – Apr 2019)
 
+## Quick Links
+
+- [Publications](publications.html)
+- [Projects](projects.html)
+
 ## Contact
 
 - 📧 [aalam6@ncsu.edu](mailto:aalam6@ncsu.edu)
