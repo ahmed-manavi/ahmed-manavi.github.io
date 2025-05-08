@@ -1,19 +1,24 @@
+---
+layout: default
+title: Projects
+---
+
 # Projects
 
-## Dual-Polarized Radiometer with Built-In Interference Processing
+## SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries
 
-* **Description**: Developed a versatile dual-polarized radiometer integrated with SDR technology for enhanced accuracy in interference management and data acquisition.
-* **Institution**: North Carolina State University
+- **Description**: Deveometry and decision boundaries.
+- **Conference**: CV
+- [GitHub Repository](https://github.com/ahmed-manavi/splinecam)
 
-## Room Geometry Estimation with Machine Learning
+## Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values
 
-* **Description**: Developed state-of-the-art DSP and ML techniques for precise room geometry estimation, significantly improving room acoustics simulation realism.
-* **Institution**: Bose Corporation
+- **Description**: Introducedative networks.
+- **Conference**: 2
+- [GitHub Repository](https://github.com/ahmed-manavi/magnet-polarity)
 
-## Spectrum Coexistence Testbed for Wireless Communication
+## MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining
 
-* **Description**: Designed and implemented a testbed within an anechoic chamber to manage spectrum coexistence between active wireless communication systems and passive remote sensing devices.
-* **Institution**: Mississippi State University
-  [GitHub Repository](https://github.com/ahmed-manavi/Active_Passive_Spectrum_Coexistence_Testbed_Data)
-
----
+- **Description**: Presnifolds without retraining.
+- **Conference**: IC22
+- [GitHub Repository](https://github.com/ahmed-manavi/MaGNET)
