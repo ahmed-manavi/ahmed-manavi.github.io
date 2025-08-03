@@ -2,9 +2,11 @@
 title: "RFI-Net: Deep Learning-Based RFI Detection in the Time-Frequency Domain"
 collection: portfolio
 permalink: /portfolio/rfi-net
-excerpt: "Deep learning-based RFI detection and mitigation for passive sensing using a dual-loss U-Net architecture. 1<br/><img src='/images/500x300.png'>"
+excerpt: "Deep learning-based RFI detection and mitigation for passive sensing using a dual-loss U-Net architecture."
 date: 2025-08-03
 venue: "Research Project"
+header:
+  image: /images/over_rfi_net_final.png
 ---
 
 ![RFI-Net Overview](/images/over_rfi_net_final.png)
