@@ -10,7 +10,9 @@ tags:
   - RFI
 ---
 
-I will be presenting an invited talk at the **NC State ECE Colloquium** in **November 2025**, titled:
+I will be presenting an invited talk at the **NC State ECE Colloquium** in **November 2025**.
+
+Presetion is titled:
 
 > **“Spectrum Coexistence Between Active Technologies and Passive Sensors”**
 
