@@ -9,17 +9,18 @@ redirect_from:
 
 ## Summary of Qualifications
 
-- **Ph.D.** in Electrical Engineering, NC State University (Expected Dec 2025)
-- 6 years of research, teaching, and industry experience in signal processing, wireless communications, and machine learning with applications to radar and remote sensing.
-- Authored 20+ technical publications (5 journal papers, 15 conference papers).
-- Contributed to two major federally funded research projects:
-  - **NASA SMAP Project**: Deep learning-based RFI detection and calibration for passive microwave sensors.
-  - **NSF SWIFT-SAT Project**: End-to-end learning-based interference mitigation for radiometers.
-- Advised 15 undergraduate students across 5 senior capstone projects at DIU, Bangladesh.
-- Taught 24 undergraduate courses (~460 students) covering signals, electromagnetics, control systems, circuits, and electronics.
-- Contributed to OBE-aligned curriculum development and assessment strategy design.
-- Mentored Teaching Fellow at NC State University, co-teaching ECE 301 (Linear Systems).
-- Active in IEEE: peer reviewer, IGARSS session manager, and volunteer at AGU 2024.
+- **Ph.D.**: Electrical Engineering from the NC State University. [Expected Graduation Date: Dec 2025]  
+- **Experience**: 6 years of research, teaching and industry experience in wireless communication, signal processing and machine learning with applications to radar and remote sensing.  
+- **Publications**: 20 technical publications, including 5 peer-reviewed journals, 15 peer-reviewed conferences.  
+- **Grants**: Contributed to proposal writing and research execution for two major federally funded projects:  
+  - NASA SMAP Project (Award No. 80NSSC25K7061, $493,000): Enhancing SMAP Radiometer Performance via Deep Learning for Calibration and RFI Detection.  
+  - NSF SWIFT-SAT Project (Award No. 2332661, $750,000): INtegrated Testbed Ensuring Resilient Active/Passive CoexisTence (INTERACT): End-to-End Learning-Based Interference Mitigation for Radiometers.  
+- **Undergraduate Student Advising**: Advised 15 undergraduate students across 5 capstone design projects during tenure as Lecturer at Daffodil International University (DIU), Bangladesh, providing technical mentorship and project guidance.  
+- **Teaching**: Taught 24 undergraduate course sections to over 460 students at DIU, covering core Electrical and Electronic Engineering subjects, including  1. Signals and Systems,  2. Electromagnetics,  3. Control Systems,  4. Electrical Circuits,  5. Solid-State Electronics with emphasis on both theoretical foundations and hands-on laboratory instruction.  
+- **Curriculum Development**: Contributed to the establishment of the Information and Communication Engineering department at DIU; developed Outcome-Based Education (OBE)-aligned courses, mapped course outcomes to program objectives, and designed assessment strategies to support continuous improvement.  
+- **Service**: Graduate Student Member of the IEEE. Provided professional service as a peer reviewer for top IEEE journals (JSTARS, TGRS, TRS), session manager for IEEE IGARSS 2023 (RFI Detection and Mitigation), and volunteer for the IEEE Geoscience and Remote Sensing Society (GRSS) booth at AGU 2024, supporting community engagement and technical outreach.  
+- **Mentored Teaching Experience**: Selected for NC State University’s prestigious Mentored Teaching Fellowship; co-taught ECE 301 (Linear Systems), contributed to course design, interactive tools, and direct student support.  
+
 
 ---
 
