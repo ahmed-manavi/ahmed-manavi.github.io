@@ -7,7 +7,9 @@ tags:
   - research
   - symposium
 ---
-![Symposium Award](/images/symposium_award.png)
+#![Symposium Award](/images/symposium_award.png)
+<img src="/images/symposium_award.png" alt="Symposium Award" style="max-width: 300px; height: auto; margin-bottom: 20px;" />
+
 I am honored to have been selected as the **Winner of the Spring 2024 Graduate Research Symposium** at Mississippi State University. This recognition was awarded for my research presentation on _“Microwave Radiometer Calibration Using Deep Learning with Reduced Reference Information and 2-D Spectral Features.”_
 
 The symposium celebrated outstanding graduate research across disciplines, and I am grateful for the opportunity to share my work and represent our research group.
