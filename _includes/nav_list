@@ -2,7 +2,9 @@
 {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
-  {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
+  {% if page.sidebar.title %}
+    <header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>
+  {% endif %}
   <ul>
     {% for nav in navigation %}
       <li>
@@ -14,7 +16,11 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          {% if nav.title == "CV" %}
+            <a href="{{ domain }}{{ nav.url }}" target="_blank" rel="noopener"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          {% else %}
+            <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          {% endif %}
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
