@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-rfinet
 excerpt: 'RFI-Net: A deep learning-based approach for robust time-frequency domain RFI detection and mitigation in passive sensing systems.'
-date: 2025-01-01
-venue: 'Submitted to IEEE Transactions on Geoscience and Remote Sensing'
+date: 2025-08-01
+venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: https://www.techrxiv.org/users/948591/articles/1318270-rfi-net-enhancing-passive-sensing-through-deep-learning-based-time-frequency-domain-radio-frequency-interference-detection-and-mitigation
 citation: 'A. M. Alam, M. Kurum, and A. C. Gurbuz, "RFI-Net: Enhancing Passive Sensing through Deep Learning Based Time-Frequency Domain Radio Frequency Interference Detection and Mitigation," submitted to <i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2025.'
 ---
