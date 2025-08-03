@@ -1,0 +1,14 @@
+---
+title: "SDR-Based Dual Polarized L-Band Microwave Radiometer Operating From Small UAS Platforms"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-sdr-dual-polarized-radiometer
+excerpt: 'A compact, dual-polarized L-band microwave radiometer system built on software-defined radio (SDR) for deployment on small unmanned aerial systems (UAS).'
+date: 2024-05-20
+venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 9389-9402'
+paperurl: 'https://doi.org/10.1109/JSTARS.2024.3394054'
+citation: 'M. M. Farhad, A. M. Alam, S. Biswas, M. A. S. Rafi, A. C. Gurbuz, and M. Kurum, "SDR-Based Dual Polarized L-Band Microwave Radiometer Operating From Small UAS Platforms," in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, vol. 17, pp. 9389-9402, 2024, doi: 10.1109/JSTARS.2024.3394054.'
+---
+
+Passive microwave remote sensing is a vital tool for acquiring valuable information regarding the Earth's surface, with significant applications in agriculture, water management, forestry, and various environmental disciplines. Precision agricultural (PA) practices necessitate the availability of field-scale, high-resolution remote sensing data products. This study focuses on the design and development of a cost-effective, portable L-band microwave radiometer capable of operating from an unmanned aircraft system platform to measure high-resolution surface brightness temperature (TB). This radiometer consists of a dual-polarized (Horizontal polarized, H-pol and Vertical polarized, V-pol) antenna and a software-defined radio-based receiver system with a 30 MHz sampling rate. The post-processing methodology encompasses the conversion of raw in-phase and quadratic (I&Q) surface emissions to radiation TB through internal and external calibrations. Radiometric measurements were conducted over an experimental site covering both bare soil within an agricultural field and a large water body. The results yielded a high-resolution TB map that effectively delineated the boundaries between land and water, and identified land surface features. The radiometric temperature measurements of the sky and blackbody demonstrated a standard deviation of 0.95 K for H-pol and 0.57 K for V-pol in the case of the sky and 0.39 K for both H-pol and V-pol in the case of the blackbody observations. The utilization of I&Q samples acquired via the radiometer digital back-end facilitates the generation of different time–frequency (TF) analyses through short-time Fourier transform and power spectral density (PSD). The transformation of radiometer samples into TF representations aids in the identification and mitigation of radio frequency interference originating from the instrument itself and external sources.
+<!-- Optional addition: Include flight test video link or code repo if available -->
