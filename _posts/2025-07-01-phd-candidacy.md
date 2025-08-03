@@ -8,7 +8,7 @@ tags:
   - milestone
 ---
 
-<img src="/images/ahmed_prelim.jpg" alt="Ahmed PhD Candidacy" width="250"/>
+<img src="/images/ahmed_prelim.png" alt="Ahmed PhD Candidacy" width="250"/>
 
 I’m thrilled to announce that I have officially advanced to **Ph.D. Candidacy** at **NC State University**!
 
