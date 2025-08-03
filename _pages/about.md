@@ -26,22 +26,24 @@ redirect_from:
 
 ## Research Interests
 
-**Signal Processing & Wireless Communications**  
-- Passive/active spectrum coexistence  
-- Cognitive sensing systems  
-- Digital twin systems  
+- **Signal Processing & Wireless Communications**  
+  - Wireless Communication and Passive Sensing Coexistence  
+  - Integrated Sensing and Communication, Cognitive sensing systems  
+  - Physics-Informed Digital Twin Systems  
 
-**Machine Learning**  
-- Deep learning for radar and remote sensing  
-- Physics-informed ML for autonomy and sensing  
-- ML for inverse problems in communication systems  
+- **Machine Learning**  
+  - ML for Radar, Remote Sensing and Wireless Communications  
+  - Deep learning for inverse problems  
+  - Physics-aware machine learning for radar, autonomy and remote sensing  
+  - Audio Machine Learning  
 
-**Radar & Remote Sensing**  
-- Beamforming and array signal processing  
-- Time-frequency analysis  
-- SDR-based passive sensing  
-- UAV-based precision agriculture  
-- GNSS-R and satellite-based observation  
+- **Radar & Remote Sensing**  
+  - Radar/Array Signal Processing/Beamforming  
+  - Time-Frequency Domain Analysis  
+  - UAS/Satellite-based remote sensing  
+  - Passive radars, Signals of Opportunity (GNSS+R), Sensing with Software Defined Radios  
+  - UAV-based remote sensing & Precision agriculture  
+
 
 ---
 
