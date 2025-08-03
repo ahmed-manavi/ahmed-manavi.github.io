@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "RFI-Net: Enhancing Passive Sensing through Deep Learning Based Time-Frequency Domain Radio Frequency Interference Detection and Mitigation"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
