@@ -1,0 +1,13 @@
+---
+title: "RFI-Net: Enhancing Passive Sensing through Deep Learning Based Time-Frequency Domain Radio Frequency Interference Detection and Mitigation"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-rfinet
+excerpt: 'RFI-Net: A deep learning-based approach for robust time-frequency domain RFI detection and mitigation in passive sensing systems.'
+date: 2025-01-01
+venue: 'Submitted to IEEE Transactions on Geoscience and Remote Sensing'
+paperurl: https://www.techrxiv.org/users/948591/articles/1318270-rfi-net-enhancing-passive-sensing-through-deep-learning-based-time-frequency-domain-radio-frequency-interference-detection-and-mitigation
+citation: 'A. M. Alam, M. Kurum, and A. C. Gurbuz, "RFI-Net: Enhancing Passive Sensing through Deep Learning Based Time-Frequency Domain Radio Frequency Interference Detection and Mitigation," submitted to <i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2025.'
+---
+Radio-frequency interference (RFI) poses a significant challenge to passive sensing, which relies on extremely sensitive measurements of natural thermal emissions. As radiometers increasingly operate in spectrally congested environments, often outside protected bands, accurate RFI detection becomes critical to ensure data integrity and enable spectrum coexistence. This paper presents RFI-Net, a deep learning-based framework for RFI detection and mitigation in the time-frequency (TF) domain. The model employs a U-Net architecture trained with a physicsinformed dual-loss strategy: a binary cross-entropy (BCE) loss targets detection of RFI-contaminated TF bins, while a mean squared error (MSE) loss minimizes deviations in estimated Brightness Temperature after RFI suppression at the same time. By removing corrupted bins and using only uncontaminated TF data, the framework enables reliable estimation of Brightness Temperature. RFI-Net is evaluated on a synthetic dataset simulating multiple interference scenarios with varying interference-tonoise ratios (INRs), spectral occupancy, duty cycles, and various communication and radar waveform types to capture both pulsed and continuous wave RFI characteristics. Additionally, real-world validation is performed using a spectrum coexistence testbed dataset, where an L-band radiometer is exposed to 5G signals with different power levels and resource block group allocations. Compared to the widely used spectral kurtosis method, RFI-Net achieves superior performance in detection metrics of accuracy, precision, recall, and as well as MSE of Brightness Temperature.
+<!-- Optional: Include figures, dataset links, code repos, or additional context here -->
