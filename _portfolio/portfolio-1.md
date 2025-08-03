@@ -5,8 +5,8 @@ permalink: /portfolio/rfi-net
 excerpt: "Deep learning-based RFI detection and mitigation for passive sensing using a dual-loss U-Net architecture."
 date: 2025-08-03
 venue: "Research Project"
-paperurl: "/files/over_rfi_net_final.pdf"
 ---
+![RFI-Net Overview](/files/over_rfi_net_final.pdf)
 
 Radio-frequency interference (RFI) poses a significant challenge to passive sensing, which relies on extremely sensitive measurements of natural thermal emissions. As radiometers increasingly operate in spectrally congested environments, often outside protected bands, accurate RFI detection becomes critical to ensure data integrity and enable spectrum coexistence.
 
@@ -20,5 +20,3 @@ By removing corrupted bins and using only uncontaminated TF data, the framework 
 RFI-Net is evaluated on a synthetic dataset simulating multiple interference scenarios with varying interference-to-noise ratios (INRs), spectral occupancy, duty cycles, and waveform types (pulsed & continuous). Real-world validation is performed using a spectrum coexistence testbed dataset, where an **L-band radiometer** is exposed to 5G signals with different power levels and RB group allocations.
 
 Compared to **spectral kurtosis**, RFI-Net achieves superior performance in accuracy, precision, recall, and Brightness Temperature MSE.
-
-[📄 Download PDF](/files/rfi-net.pdf){:target="_blank"}
