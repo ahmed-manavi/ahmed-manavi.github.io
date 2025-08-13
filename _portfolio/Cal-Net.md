@@ -2,7 +2,7 @@
 title: "Deep Learning-Based Radiometer Calibration Framework"
 excerpt: "Deep learning-based calibration for passive microwave radiometers using physics-informed architectures<br/><img src='/images/DL_framework_cal.png'>"
 collection: portfolio
-date: 2023-08-13
+weight: 7
 venue: "Research Project"
 ---
 
