@@ -1,6 +1,6 @@
 ---
 title: "Co-Op Journey in Audio Machine Learning & DSP at Bose"
-date: 2025-08-13
+date: 2024-12-12
 permalink: /news/2025/08/bose-coop-journey/
 tags:
   - audio
