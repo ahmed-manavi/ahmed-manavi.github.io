@@ -2,7 +2,7 @@
 title: "SDR-Based Dual-Polarized L-Band Microwave Radiometer for Small UAS Platforms"
 excerpt: "Compact, software-defined, dual-polarized L-band microwave radiometer for airborne remote sensing from small unmanned aerial systems<br/><img src='/images/radiometer_remoteseisng.jpg'>"
 collection: portfolio
-date: 2024-07-01
+weight: 3
 venue: "Research Project"
 ---
 
