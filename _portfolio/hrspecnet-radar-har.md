@@ -2,7 +2,7 @@
 title: "HRSpecNet: Deep Learning-Based High-Resolution Radar Micro-Doppler Signature Reconstruction"
 excerpt: "End-to-end deep learning framework for noise-robust, high-resolution micro-Doppler spectrogram generation and improved human activity recognition<br/><img src='/images/Auto-UNET.png'>"
 collection: portfolio
-date: 2024-05-15
+weight: 4
 venue: "Research Project"
 ---
 
