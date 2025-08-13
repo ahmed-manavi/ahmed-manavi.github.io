@@ -2,7 +2,7 @@
 title: "5G-Radiometer Coexistence Testbed for Spectrum Sharing Research"
 excerpt: "Hardware testbed for investigating spectrum coexistence between L-band radiometers and 5G wireless communication systems<br/><img src='/images/5G_radiometer_overall.jpg'>"
 collection: portfolio
-date: 2024-10-03
+weight: 2
 venue: "Research Project"
 ---
 
