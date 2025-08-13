@@ -2,7 +2,7 @@
 title: "CNN-Based RFI Detection for SMAP Radiometer"
 excerpt: "Convolutional neural network approach for robust radio-frequency interference detection in spaceborne L-band radiometer measurements<br/><img src='/images/flowchart_final_all.png'>"
 collection: portfolio
-date: 2022-11-13
+weight: 6
 venue: "Research Project"
 ---
 
