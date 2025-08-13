@@ -10,7 +10,7 @@ redirect_from:
 ## Summary of Qualifications
 
 - **Ph.D.**: Electrical Engineering from the NC State University. [Expected Graduation Date: Dec 2025]  
-- **Experience**: 6 years of research, teaching and industry experience in wireless communication, signal processing and machine learning with applications to radar and remote sensing.  
+- **Experience**: 6 years of research, teaching and industry experience in wireless communication, signal processing and machine learning with applications to radar, remote sensing, and audio technologies.  
 - **Publications**: 20 technical publications, including 5 peer-reviewed journals, 15 peer-reviewed conferences.  
 - **Grants**: Contributed to proposal writing and research execution for two major federally funded projects:  
   - NASA SMAP Project (Award No. 80NSSC25K7061, $493,000): Enhancing SMAP Radiometer Performance via Deep Learning for Calibration and RFI Detection.  
