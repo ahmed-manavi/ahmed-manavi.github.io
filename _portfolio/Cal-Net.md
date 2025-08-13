@@ -1,8 +1,8 @@
 ---
-title: "DL-Based Radiometer Calibration Framework"
+title: "Deep Learning-Based Radiometer Calibration Framework"
 excerpt: "Deep learning-based calibration for passive microwave radiometers using physics-informed architectures<br/><img src='/images/DL_framework_cal.png'>"
 collection: portfolio
-date: 2025-08-13
+date: 2023-08-13
 venue: "Research Project"
 ---
 
