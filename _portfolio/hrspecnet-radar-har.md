@@ -49,4 +49,4 @@ HRSpecNet enables:
 - Robust performance in low-SNR and noisy environments.
 - Broad applicability in security, health monitoring, gesture recognition, and autonomous systems.
 
-**Read the full paper:** [IEEE Xplore – HRSpecNet](https://ieeexplore.ieee.org/document/10318952)
+**Read the full paper:** [IEEE Xplore – HRSpecNet](https://ieeexplore.ieee.org/abstract/document/10517750)
