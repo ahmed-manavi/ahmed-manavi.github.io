@@ -32,4 +32,4 @@ The deep learning framework demonstrates:
 - Robustness to gain fluctuations and partial RFI contamination.
 - Real-time inference capability suitable for embedded deployment.
 
-**Read related work:** [IEEE Xplore – RFI-Net](https://ieeexplore.ieee.org/abstract/document/10318952)
+**Read related work:** [IEEE Xplore – Paper Link](https://ieeexplore.ieee.org/abstract/document/10318952)
