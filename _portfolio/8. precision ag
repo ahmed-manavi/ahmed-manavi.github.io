@@ -1,0 +1,30 @@
+---
+title: "Precision Agriculture: Deep Learning-Driven Crop Mapping from Multi-Temporal Sentinel-2"
+excerpt: "Leveraging Sentinel-2 time-series data and deep learning to extract vegetation phenology metrics and deliver accurate crop mapping for precision agriculture<br/><img src='/images/example7.gif'>"
+collection: portfolio
+weight: 4
+venue: "Research Project"
+---
+
+![Deep Learning Crop Mapping](/images/example7.gif)
+
+This project harnesses **deep learning** and **multi-temporal Sentinel-2 imagery** to enable efficient and accurate **crop mapping**, supporting the goals of **precision agriculture** through enhanced spatial-temporal understanding of phenology and crop types.
+
+## Project Highlights
+
+- **Data Pipeline:** Utilized Sentinel-2 time-series data to derive vegetation phenology metrics such as NDVI curves, temporal growth patterns, and spectral change rates—key indicators for crop identification.
+- **Modeling Approach:** Designed a deep neural network tailored for time-series input—likely involving convLSTM, 1D temporal convolutions, or U-Net variants—to learn from vegetation dynamics rather than static snapshots.
+- **Architecture Strengths:** The model effectively differentiates among crops by capturing phenological signatures (e.g., green-up dates, senescence trends), improving classification in complex agricultural landscapes.
+- **Precision Agriculture Impact:** Accurate crop mapping aids in optimized resource allocation (e.g., irrigation, fertilization), yield forecasting, and improved farm management decisions.
+
+## Key Outcomes
+
+- Delivered **high-resolution crop maps** over agricultural regions, enabling real-time agricultural insight for stakeholders.
+- Demonstrated **deep learning’s ability to decode crop phenology**, even across inter-annual variability and changing growth conditions.
+- Contributed to precision agriculture workflows with improved accuracy and operational readiness for field-scale monitoring.
+
+**StoryMap reference:** an ArcGIS StoryMap titled *"Deep Learning Based High-Resolution Crop Mapping"* that illustrates the full workflow—from Sentinel-2 data through phenology extraction to trained model outcomes:contentReference[oaicite:2]{index=2}.
+
+---
+
+**Keywords:** Precision Agriculture, Sentinel-2, Vegetation Phenology, Deep Learning, Crop Mapping, Time-Series Remote Sensing
