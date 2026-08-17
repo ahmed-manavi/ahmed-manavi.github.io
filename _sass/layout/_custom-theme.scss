@@ -1,0 +1,162 @@
+/* ==========================================================================
+   CUSTOM THEME — academic-minimal restyle
+   (top-nav pills, profile card, publication/portfolio cards, accent headings)
+   ========================================================================== */
+
+/*
+   Masthead navigation — pill-style hover states
+   ========================================================================== */
+
+.greedy-nav .visible-links > li:not(:first-child):not(#theme-toggle) > a {
+  margin: 0 0.15rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 999px;
+
+  &:before {
+    display: none;
+  }
+
+  &:hover {
+    background: var(--global-card-bg-color);
+    color: var(--global-accent-color);
+  }
+}
+
+.masthead__menu-item--lg a:hover {
+  color: var(--global-accent-color);
+}
+
+#theme-toggle a {
+  border-radius: 50%;
+
+  &:hover {
+    background: var(--global-card-bg-color);
+    color: var(--global-accent-color);
+  }
+}
+
+/*
+   Sidebar / author profile card
+   ========================================================================== */
+
+.author__avatar img {
+  border: 3px solid var(--global-card-bg-color);
+  box-shadow: 0 0 0 1px var(--global-border-color);
+}
+
+.author__name {
+  color: var(--global-accent-secondary-color);
+}
+
+@include breakpoint($large) {
+  .sidebar {
+    text-align: center;
+  }
+
+  .author__avatar img {
+    width: 170px;
+    max-width: 170px;
+    margin: 0 auto;
+  }
+
+  .author__urls-wrapper .author__urls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem;
+  }
+
+  .author__urls li a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 999px;
+    font-size: $type-size-7;
+    transition: $global-transition;
+
+    &:hover {
+      color: #fff;
+      background: var(--global-accent-color);
+      border-color: var(--global-accent-color);
+      text-decoration: none;
+    }
+  }
+
+  .author__urls li.author__desktop {
+    padding: 0.3rem 0.2rem;
+  }
+}
+
+/*
+   Accent headings
+   ========================================================================== */
+
+.page__content h2,
+.archive > h2 {
+  color: var(--global-accent-secondary-color);
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid var(--global-border-color);
+}
+
+.archive > h2 + hr {
+  display: none;
+}
+
+.archive__subtitle {
+  color: var(--global-accent-secondary-color);
+  border-bottom: 2px solid var(--global-border-color);
+}
+
+/*
+   Publication / portfolio / talk / teaching entries as cards
+   ========================================================================== */
+
+.list__item,
+.grid__item {
+  .archive__item {
+    padding: 1.25em 1.5em;
+    margin-bottom: 1em;
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    transition: $global-transition;
+
+    &:hover {
+      border-color: var(--global-accent-color);
+      box-shadow: $box-shadow;
+    }
+  }
+
+  .archive__item-teaser {
+    margin-bottom: 0.75em;
+  }
+}
+
+.archive__item-title {
+  margin-top: 0 !important;
+
+  a {
+    color: var(--global-text-color);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  a:hover {
+    color: var(--global-accent-color);
+    text-decoration: underline;
+  }
+}
+
+/*
+   Misc accents
+   ========================================================================== */
+
+blockquote {
+  border-left-color: var(--global-accent-color);
+}
+
+.page__taxonomy-item:hover {
+  border-color: var(--global-accent-color);
+  color: var(--global-accent-color);
+}
