@@ -32,7 +32,7 @@ My research centers on developing machine learning models for intelligent sensin
 </ul>
 
 <ul class="highlight-list">
-<li><strong>24</strong> technical publications (6 journals, 18 conferences)</li>
+<li><strong>25+</strong> technical publications, including 6 IEEE journals</li>
 <li><strong>NASA SMAP</strong> project, Award No. 80NSSC25K7061 ($493,000)</li>
 <li><strong>NSF SWIFT-SAT</strong> project, Award No. 2332661 ($750,000)</li>
 <li><strong>NSF</strong> Spectrum Coexistence project, Award No. 2030291 ($516,000)</li>
