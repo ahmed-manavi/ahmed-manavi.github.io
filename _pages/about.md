@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 <p class="lead">
-PhD candidate in Electrical and Computer Engineering at NC State University, working on spectrum coexistence between active technologies and passive sensing, radar signal processing, room acoustics, and machine learning for remote sensing and audio applications. 6+ years of research, teaching, and industry experience, including two research engagements at Bose Corporation and federally funded projects with NASA and NSF.
+Hi, I'm Ahmed. I'm a PhD candidate in Electrical and Computer Engineering at NC State University, currently working as a Graduate Research Assistant, and previously a Machine Learning and DSP Research Engineering Intern at Bose Corporation.
+</p>
+
+<p class="lead">
+My research centers on developing machine learning models for intelligent sensing systems, including physics-inspired models for radio-frequency interference detection, radar &amp; audio signal processing, and room acoustics. Over 6+ years, I've authored more than 25 technical publications, contributed to NASA- and NSF-funded research projects, and gained hands-on industry experience through two research engagements at Bose Corporation.
 </p>
 
 <ul class="tag-list">
