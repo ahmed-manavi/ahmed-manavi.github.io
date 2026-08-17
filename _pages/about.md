@@ -1,86 +1,62 @@
 ---
 permalink: /
-title: "Ahmed Manavi Alam's Personal Website"
+title: "Ahmed Manavi Alam"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Summary of Qualifications
+<p class="lead">
+PhD candidate in Electrical and Computer Engineering at NC State University, working on spectrum coexistence between active technologies and passive sensing, radar signal processing, and machine learning for remote sensing. 6 years of research, teaching, and industry experience, including two federally funded projects with NASA and NSF.
+</p>
 
-- **Ph.D.**: Department of Electrical and Computer Engineering from NC State University. [Expected Graduation Date: April 2026]  
-- **Experience**: 6 years of research, teaching, and industry experience in signal processing, artificial intelligence (AI), intelligent systems, and machine learning (ML) with applications to radar and remote sensing.
-- **Publications**: 20 technical publications, including 5 peer-reviewed journals, 15 peer-reviewed conferences.  
-- **Grants**: Contributed to proposal writing and research execution for two major federally funded projects:  
-  - NASA SMAP Project (Award No. 80NSSC25K7061, $493,000): Enhancing SMAP Radiometer Performance via Deep Learning for Calibration and RFI Detection.  
-  - NSF SWIFT-SAT Project (Award No. 2332661, $750,000): INtegrated Testbed Ensuring Resilient Active/Passive CoexisTence (INTERACT): End-to-End Learning-Based Interference Mitigation for Radiometers.  
-- **Undergraduate Student Advising**: Advised 15 undergraduate students across 5 capstone design projects during tenure as Lecturer at Daffodil International University (DIU), Bangladesh, providing technical mentorship and project guidance.  
-- **Teaching**: Taught 19 undergraduate course sections to over 300 students at DIU, covering core Electrical and Electronic Engineering subjects, including  1. Signals and Systems,  2. Electromagnetics,  3. Control Systems,  4. Electrical Circuits,  5. Solid-State Electronics with emphasis on both theoretical foundations and hands-on laboratory instruction.  
-- **Curriculum Development**: Contributed to the establishment of the Information and Communication Engineering department at DIU; developed Outcome-Based Education (OBE)-aligned courses, mapped course outcomes to program objectives, and designed assessment strategies to support continuous improvement.  
-- **Service**: Graduate Student Member of the IEEE. Provided professional service as a peer reviewer for top IEEE journals (JSTARS, TGRS, TRS), session manager for IEEE IGARSS 2023 (RFI Detection and Mitigation), and volunteer for the IEEE Geoscience and Remote Sensing Society (GRSS) booth at AGU 2024, supporting community engagement and technical outreach.  
-- **Mentored Teaching Experience**: Selected for NC State University’s prestigious Mentored Teaching Fellowship; co-taught ECE 301 (Linear Systems), contributed to course design, interactive tools, and direct student support.  
+<ul class="tag-list">
+<li class="tag">Spectrum Coexistence</li>
+<li class="tag">RFI Detection &amp; Mitigation</li>
+<li class="tag">Integrated Sensing &amp; Communication</li>
+<li class="tag">Radar / Array Signal Processing</li>
+<li class="tag">Machine Learning for Remote Sensing</li>
+<li class="tag">Software-Defined Radio</li>
+<li class="tag">Time-Frequency Analysis</li>
+<li class="tag">UAS &amp; Satellite Remote Sensing</li>
+<li class="tag">GNSS-R &amp; Passive Radar</li>
+<li class="tag">Precision Agriculture</li>
+</ul>
 
-
----
-
-## Research Interests
-
-- **Signal Processing & Wireless Communications**  
-  - Spectrum Coexistence between Wireless Communication and Passive Sensing   
-  - Integrated Sensing and Communication (ISAC)
-  - Cognitive sensing systems  
-  - Physics-Informed Digital Twin Systems  
-
-- **Machine Learning**  
-  - AI in Next generation of Wireless Communication Systems.
-  - ML for Radar Signal Processing and Remote Sensing Applications
-  - Physics Aware ML for Radio Frequency Interference Mitigation in RF Sensors
-  - AI for Multi-Modal Remote Sensing and Environmental Intelligence
-
-
-- **Radar & Remote Sensing**  
-  - Radar/Array Signal Processing/Beamforming  
-  - Time-Frequency Domain Analysis  
-  - UAS/Satellite-based remote sensing  
-  - Passive radars, Signals of Opportunity (GNSS+R), Sensing with Software Defined Radios  
-  - Precision agriculture  
-
+<ul class="highlight-list">
+<li><strong>20</strong> technical publications — 5 journals, 15 conferences</li>
+<li><strong>NASA SMAP</strong> project, Award No. 80NSSC25K7061 ($493,000)</li>
+<li><strong>NSF SWIFT-SAT</strong> project, Award No. 2332661 ($750,000)</li>
+<li>Taught <strong>19</strong> course sections to 300+ students at DIU</li>
+<li>Advised <strong>15</strong> undergraduates across 5 capstone projects</li>
+<li>NC State <strong>Mentored Teaching Fellow</strong>, co-taught ECE 301</li>
+<li>IEEE reviewer — JSTARS, TGRS, TRS; session chair, IGARSS 2023</li>
+<li>GRSS volunteer, AGU 2024; Graduate Student Member, IEEE</li>
+</ul>
 
 ---
 
 ## Education
 
-**North Carolina State University**, Raleigh, NC  
-Ph.D. in Electrical Engineering (Expected April 2026)  
-Dissertation: *Spectrum Coexistence Between Active Technologies and Passive Sensing Systems*  
-Advisor: Dr. Ali Gurbuz
+**Ph.D., Electrical Engineering** — North Carolina State University, Raleigh, NC *(Expected April 2026)*  
+Dissertation: *Spectrum Coexistence Between Active Technologies and Passive Sensing Systems* · Advisor: Dr. Ali Gurbuz
 
-**Mississippi State University**, Starkville, MS  
-M.S. in Electrical and Computer Engineering (Apr 2024)  
-Thesis: *Radio Frequency Interference Detection and Mitigation in Microwave Radiometers with Deep Learning*  
-Advisor: Dr. Ali Gurbuz
+**M.S., Electrical and Computer Engineering** — Mississippi State University, Starkville, MS *(April 2024)*  
+Thesis: *Radio Frequency Interference Detection and Mitigation in Microwave Radiometers with Deep Learning* · Advisor: Dr. Ali Gurbuz
 
-**Bangladesh University of Engineering and Technology (BUET)**, Dhaka, Bangladesh  
-B.S. in Electrical and Electronic Engineering (June 2019)
+**B.S., Electrical and Electronic Engineering** — Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh *(June 2019)*
 
 ---
 
-## Professional Experience
+## Experience
 
-**North Carolina State University**, Raleigh, NC  
-*Graduate Research Assistant*, IMPRESS Lab (Jan 2025 – Present)
+**Graduate Research Assistant**, IMPRESS Lab — North Carolina State University *(Jan 2025 – Present)*
 
-**Bose Corporation**, Framingham, MA  
-*Audio ML & DSP Research Co-op* (July 2024 – Dec 2024)
+**Audio ML & DSP Research Co-op** — Bose Corporation, Framingham, MA *(Jul 2024 – Dec 2024)*
 
-**Mississippi State University**, Starkville, MS  
-*Graduate Research Assistant*, IMPRESS Lab (Aug 2021 – Jun 2024)
+**Graduate Research Assistant**, IMPRESS Lab — Mississippi State University *(Aug 2021 – Jun 2024)*
 
-**High Performance Computing Collaboratory**, Starkville, MS  
-*Machine Learning Intern*, GRI (May 2023 – Jul 2023)
+**Machine Learning Intern**, GRI — High Performance Computing Collaboratory, Starkville, MS *(May 2023 – Jul 2023)*
 
-**Daffodil International University**, Dhaka, Bangladesh  
-*Lecturer*, Electrical and Telecommunication Engineering (Sep 2019 – Jul 2021)
-
----
+**Lecturer**, Electrical and Telecommunication Engineering — Daffodil International University, Dhaka, Bangladesh *(Sep 2019 – Jul 2021)*

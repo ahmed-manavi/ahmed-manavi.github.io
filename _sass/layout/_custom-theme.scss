@@ -46,6 +46,8 @@
 
 .author__name {
   color: var(--global-accent-secondary-color);
+  font-size: 1.5rem;
+  font-weight: 800;
 }
 
 @include breakpoint($large) {
@@ -89,6 +91,20 @@
 }
 
 /*
+   Bolder headings
+   ========================================================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.page__title {
+  font-size: 2.1rem;
+  font-weight: 800;
+}
+
+/*
    Accent headings
    ========================================================================== */
 
@@ -106,6 +122,109 @@
 .archive__subtitle {
   color: var(--global-accent-secondary-color);
   border-bottom: 2px solid var(--global-border-color);
+}
+
+/*
+   Lead paragraph + tag pills (used on the About/home page)
+   ========================================================================== */
+
+.lead {
+  font-size: 1.15rem;
+  color: var(--global-text-color);
+  line-height: 1.6;
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1em 0 1.5em;
+  padding: 0;
+  list-style: none;
+}
+
+.tag-list .tag {
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+  font-size: $type-size-6;
+  font-weight: 500;
+  color: var(--global-accent-color);
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+}
+
+.highlight-list {
+  margin: 0 0 1.5em;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.6em 1.5em;
+}
+
+.highlight-list li {
+  margin: 0;
+  padding-left: 1.2em;
+  position: relative;
+
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--global-accent-color);
+  }
+}
+
+/*
+   Portfolio grid
+   ========================================================================== */
+
+.grid__wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1em;
+}
+
+.grid__wrapper .grid__item {
+  margin: 0;
+  width: auto;
+  float: none;
+}
+
+.grid__wrapper .archive__item {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+}
+
+.grid__wrapper .archive__item-teaser {
+  margin-bottom: 0;
+  border-radius: 0;
+
+  img {
+    height: 190px;
+    object-fit: cover;
+  }
+}
+
+.grid__wrapper .archive__item-title {
+  margin: 0.75em 1.25em 0.25em !important;
+  font-size: $type-size-5;
+}
+
+.grid__wrapper .archive__item-excerpt {
+  display: block !important;
+  margin: 0 1.25em 1.25em;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
 }
 
 /*
