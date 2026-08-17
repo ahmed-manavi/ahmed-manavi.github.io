@@ -1,4 +1,6 @@
 ---
-permalink: /cv/
-redirect_to: /files/Ahmed_Manavi_Alam_CV.pdf
+permalink: /resume/
+redirect_from:
+  - /cv/
+redirect_to: /files/Resume_Ahmed_Manavi_Alam.pdf
 ---
