@@ -154,6 +154,26 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 999px;
 }
 
+.pub-brief-list {
+  margin: 0 0 2em;
+  padding-left: 1.4em;
+}
+
+.pub-brief-list li {
+  margin-bottom: 0.9em;
+  padding-left: 0.3em;
+  line-height: 1.55;
+  color: var(--global-text-color);
+}
+
+.pub-brief-list a {
+  color: inherit;
+}
+
+.pub-brief-list a:hover {
+  color: var(--global-accent-color);
+}
+
 .highlight-list {
   margin: 0 0 1.5em;
   padding: 0;
