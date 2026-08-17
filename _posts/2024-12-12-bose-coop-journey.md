@@ -22,7 +22,7 @@ tags:
 
 As my 6-month **Co-Op in Audio Machine Learning and DSP Research** at **Bose Corporation** comes to an end, I’m incredibly grateful for an experience filled with growth, collaboration, and innovation.
 
-Over this period, I had the privilege of working with a **cross-functional, highly talented team** on cutting-edge projects blending acoustics, signal processing, and machine learning—delivering promising results with potential impact in **spatial audio** and **listening zone-based EQ**.
+Over this period, I had the privilege of working with a **cross-functional, highly talented team** on cutting-edge projects blending acoustics, signal processing, and machine learning, delivering promising results with potential impact in **spatial audio** and **listening zone-based EQ**.
 
 ### Highlights
 - Collaborated closely with researchers and engineers across disciplines.

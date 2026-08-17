@@ -20,6 +20,6 @@ Successfully completing my preliminary exam marks a major milestone in my doctor
 - Dr. Vijay Shah
 - Dr. Yuchen Liu
 
-I look forward to continuing research in **spectrum coexistence**, **radar signal processing**, and **machine learning for remote sensing**—and contributing to the broader research community.
+I look forward to continuing research in **spectrum coexistence**, **radar signal processing**, and **machine learning for remote sensing**, and contributing to the broader research community.
 
 Thank you to everyone who’s supported me along the way!
