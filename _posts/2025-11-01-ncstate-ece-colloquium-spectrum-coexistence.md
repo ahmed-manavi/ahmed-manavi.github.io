@@ -10,6 +10,8 @@ tags:
   - RFI
 ---
 
+<img src="/images/colloquium-talk-photo.jpeg" alt="NC State ECE Colloquium Talk" width="350"/>
+
 I will be presenting an invited talk at the **NC State ECE Colloquium** in **November 2025**.
 
 Presetion is titled:
