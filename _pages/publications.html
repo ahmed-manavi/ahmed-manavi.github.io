@@ -16,7 +16,7 @@ author_profile: true
     <ol class="pub-brief-list">
       {% for post in items %}
         <li id="{{ post.permalink | slugify }}">
-          {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.citation }}</a>{% else %}{{ post.citation }}{% endif %}
+          {% if post.paperurl != blank %}<a href="{{ post.paperurl }}">{{ post.citation }}</a>{% else %}{{ post.citation }}{% endif %}
         </li>
       {% endfor %}
     </ol>
