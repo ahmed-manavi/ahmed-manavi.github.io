@@ -39,7 +39,7 @@ PhD candidate in Electrical and Computer Engineering at NC State University, wor
 
 ## Education
 
-**Ph.D., Electrical Engineering** — North Carolina State University, Raleigh, NC *(Expected April 2026)*  
+**Ph.D., Electrical Engineering** — North Carolina State University, Raleigh, NC *(Expected October 2026)*  
 Dissertation: *Spectrum Coexistence Between Active Technologies and Passive Sensing Systems* · Advisor: Dr. Ali Gurbuz
 
 **M.S., Electrical and Computer Engineering** — Mississippi State University, Starkville, MS *(April 2024)*  

@@ -22,7 +22,7 @@ repository               : "ahmed-manavi/ahmed-manavi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile-headshot.png"
   name             : "Ahmed Manavi Alam"
   bio              : "ECE PhD Candidate at North Carolina State University"
   location         : "EBII, 890 Oval Dr, Raleigh, NC 27695"
