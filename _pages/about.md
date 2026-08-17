@@ -42,6 +42,49 @@ PhD candidate in Electrical and Computer Engineering at NC State University, wor
 
 ---
 
+## News
+
+<div class="news-card">
+<ul class="news-list">
+{% assign recent_posts = site.posts | sort: "date" | reverse %}
+{% for post in recent_posts limit:6 %}
+<li><span class="news-date">[{{ post.date | date: "%Y/%m" }}]</span><span><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></span></li>
+{% endfor %}
+</ul>
+</div>
+<p class="section-more"><a href="{{ base_path }}/year-archive/">See all news &rarr;</a></p>
+
+---
+
+## Selected Publications
+
+<div class="pub-preview-grid">
+  <div class="pub-preview-item">
+    <a href="{{ base_path }}/publication/2025-rfinet"><img src="{{ base_path }}/images/over_rfi_net_final.png" alt="RFI-Net"></a>
+    <div>
+      <a class="pub-preview-title" href="{{ base_path }}/publication/2025-rfinet">RFI-Net: Enhancing Passive Sensing through Deep Learning Based Time-Frequency Domain RFI Detection and Mitigation</a>
+      <p class="pub-preview-venue">IEEE Transactions on Geoscience and Remote Sensing, 2026</p>
+    </div>
+  </div>
+  <div class="pub-preview-item">
+    <a href="{{ base_path }}/publication/2024-access-spectrum-coexistence"><img src="{{ base_path }}/images/5G_radiometer_overall.jpg" alt="Spectrum coexistence testbed"></a>
+    <div>
+      <a class="pub-preview-title" href="{{ base_path }}/publication/2024-access-spectrum-coexistence">A Physical Testbed and Open Dataset for Passive Sensing and Wireless Communication Spectrum Coexistence</a>
+      <p class="pub-preview-venue">IEEE Access, 2024</p>
+    </div>
+  </div>
+  <div class="pub-preview-item">
+    <a href="{{ base_path }}/publication/2024-hrspecnet"><img src="{{ base_path }}/images/Auto-UNET.png" alt="HRSpecNet"></a>
+    <div>
+      <a class="pub-preview-title" href="{{ base_path }}/publication/2024-hrspecnet">HRSpecNET: A Deep Learning-Based High-Resolution Radar Micro-Doppler Signature Reconstruction for Improved HAR Classification</a>
+      <p class="pub-preview-venue">IEEE Transactions on Radar Systems, 2024</p>
+    </div>
+  </div>
+</div>
+<p class="section-more"><a href="{{ base_path }}/publications/">See all publications &rarr;</a></p>
+
+---
+
 ## Education
 
 **Ph.D., Electrical Engineering**, North Carolina State University, Raleigh, NC *(Expected October 2026 · CGPA 4.00/4.00)*  
